@@ -114,6 +114,7 @@ To better understand model behavior, we created several visualizations. These in
 These visual insights helped us see not just how accurate the models were, but also which areas they struggled with the most.
 
 Conclusion:
+
 In this project, we explored different models to predict medical specialties from clinical transcriptions. Random Forest with hyperparameter tuning gave the best results with 71.75% accuracy, outperforming both Logistic Regression and DistilBERT. While we expected the deep learning model to do better, its performance was limited by data size and training time. Some specialties were easier to classify than others based on how distinct their language was. This project showed that with proper tuning and preprocessing, classic models can still be highly effective in real-world NLP tasks.
 
 
