@@ -27,6 +27,10 @@ Description: A brief overview of the note.
 
 This diverse collection of transcriptions presents a realistic challenge for classification tasks, as some specialties have overlapping terminology, while others are more distinct.
 
+#Environment Setup
+pip install -r requirements.txt
+
+
 **Project Goal**
 
 The main goal of this project is to build a model that can predict the medical specialty just by reading the text of a clinical transcription.
